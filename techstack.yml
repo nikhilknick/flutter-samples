@@ -1,0 +1,1123 @@
+repo_name: nikhilknick/flutter-samples
+report_id: ea5e6a95f8964789f54d4128575439b6
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-19T08:08:19+00:00'
+requested_by: domesticmouse
+provider: github
+branch: master
+detected_tools_count: 85
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/testing_app/android/app/build.gradle
+  detection_source: testing_app/android/app/build.gradle
+  last_updated_by: Brett Morgan
+  last_updated_on: 2020-08-05 05:29:53.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.yaml
+  detection_source: add_to_app/android_view/flutter_module_using_plugin/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-13 19:31:56.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/.github/workflows/beta.yml
+  detection_source: ".github/workflows/beta.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-05 07:40:06.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/android_view/app/build.gradle
+  detection_source: add_to_app/android_view/android_view/app/build.gradle
+  last_updated_by: xster
+  last_updated_on: 2021-01-27 06:25:31.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.yaml
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2019-12-10 20:22:42.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/web_dashboard/pubspec.yaml
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2020-03-03 00:04:10.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/testing_app/android/app/build.gradle
+  detection_source: testing_app/android/app/build.gradle
+  last_updated_by: Brett Morgan
+  last_updated_on: 2020-08-05 05:29:53.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/books/ios_books/Podfile.lock
+  detection_source: add_to_app/books/ios_books/Podfile.lock
+  last_updated_by: gaaclarke
+  last_updated_on: 2021-03-04 05:04:28.000000000 Z
+- name: Espresso
+  description: Android UI testing
+  website_url: https://code.google.com/p/android-test-kit/wiki/Espresso
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3673/espresso.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/fullscreen/flutter_module/pubspec.yaml
+  detection_source: add_to_app/fullscreen/flutter_module/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-04-06 01:45:20.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples
+  detection_source: Repo Metadata
+- name: async
+  description: Utility functions and classes related to the 'dart:async' library
+  package_url: https://pub.dartlang.org/async
+  version: 2.8.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: auto_size_text
+  description: Flutter widget that automatically resizes text to fit perfectly within
+    its bounds
+  package_url: https://pub.dartlang.org/auto_size_text
+  version: 3.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/simplistic_calculator/pubspec.lock
+  detection_source: simplistic_calculator/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-02-27 17:09:31.000000000 Z
+- name: build
+  description: A package for authoring build_runner compatible code generators
+  package_url: https://pub.dartlang.org/build
+  version: 2.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-11 10:05:34.000000000 Z
+- name: build_runner
+  description: A build system for Dart code generation and modular compilation
+  package_url: https://pub.dartlang.org/build_runner
+  version: 2.1.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-11 10:05:34.000000000 Z
+- name: build_web_compilers
+  description: Builder implementations wrapping the dart2js and DDC compilers
+  package_url: https://pub.dartlang.org/build_web_compilers
+  version: 3.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/web/samples_index/pubspec.yaml
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: built_collection
+  description: Immutable collections based on the SDK collections
+  package_url: https://pub.dartlang.org/built_collection
+  version: 5.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-11 10:05:34.000000000 Z
+- name: built_value
+  description: Value types with builders, Dart classes as enums, and serialization
+  package_url: https://pub.dartlang.org/built_value
+  version: 8.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-11 10:05:34.000000000 Z
+- name: built_value_generator
+  description: Value types with builders, Dart classes as enums, and serialization
+  package_url: https://pub.dartlang.org/built_value_generator
+  version: 8.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-11 10:05:34.000000000 Z
+- name: charts_flutter
+  description: Material Design charting library for flutter
+  package_url: https://pub.dartlang.org/charts_flutter
+  version: 0.12.0
+  license: Apache-2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/web_dashboard/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: checked_yaml
+  description: Generate more helpful exceptions when decoding YAML documents using
+    package:json_serializable and package:yaml
+  package_url: https://pub.dartlang.org/checked_yaml
+  version: 2.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: cloud_firestore
+  description: Flutter plugin for Cloud Firestore
+  package_url: https://pub.dartlang.org/cloud_firestore
+  version: 3.1.14
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/web_dashboard/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-04 09:13:15.000000000 Z
+- name: collection
+  description: Collections and utilities functions and classes related to collections
+  package_url: https://pub.dartlang.org/collection
+  version: 1.16.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/multiple_flutters/multiple_flutters_module/pubspec.lock
+  detection_source: add_to_app/multiple_flutters/multiple_flutters_module/pubspec.yaml
+  last_updated_by: gaaclarke
+  last_updated_on: 2021-02-08 21:01:54.000000000 Z
+- name: english_words
+  description: Utilities for working with English words
+  package_url: https://pub.dartlang.org/english_words
+  version: 4.0.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/form_app/pubspec.lock
+  detection_source: form_app/pubspec.yaml
+  last_updated_by: Robert Stevens
+  last_updated_on: 2021-10-06 03:34:57.000000000 Z
+- name: equatable
+  description: A Dart package that helps to implement value based equality without
+    needing to explicitly override == and hashCode
+  package_url: https://pub.dartlang.org/equatable
+  version: 2.0.3
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-28 08:30:05.000000000 Z
+- name: firebase_auth
+  description: Flutter plugin for Firebase Auth
+  package_url: https://pub.dartlang.org/firebase_auth
+  version: 3.3.17
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/web_dashboard/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-04 09:13:15.000000000 Z
+- name: firebase_core
+  description: Flutter plugin for Firebase Core
+  package_url: https://pub.dartlang.org/firebase_core
+  version: 1.16.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/web_dashboard/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-04 09:13:15.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: add_to_app/android_view/flutter_module_using_plugin/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-13 19:31:56.000000000 Z
+- name: flutter_launcher_icons
+  description: A package which simplifies the task of updating your Flutter app's
+    launcher icon
+  package_url: https://pub.dartlang.org/flutter_launcher_icons
+  version: 0.9.2
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/game_template/pubspec.lock
+  detection_source: game_template/pubspec.yaml
+  last_updated_by: Filip Hracek
+  last_updated_on: 2022-05-12 15:24:02.000000000 Z
+- name: flutter_layout_grid
+  description: A powerful grid layout system for Flutter
+  package_url: https://pub.dartlang.org/flutter_layout_grid
+  version: 2.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/simplistic_calculator/pubspec.lock
+  detection_source: simplistic_calculator/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-13 19:31:56.000000000 Z
+- name: flutter_markdown
+  description: A Markdown renderer for Flutter
+  package_url: https://pub.dartlang.org/flutter_markdown
+  version: 0.6.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: font_awesome_flutter
+  description: The Font Awesome Icon pack available as Flutter Icons
+  package_url: https://pub.dartlang.org/font_awesome_flutter
+  version: 10.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/veggieseasons/pubspec.lock
+  detection_source: veggieseasons/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: google_fonts
+  description: A Flutter package to use fonts from fonts.google.com
+  package_url: https://pub.dartlang.org/google_fonts
+  version: 2.3.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-03-18 22:37:04.000000000 Z
+- name: google_maps_webservice
+  description: Google Maps Web Services [API]
+  package_url: https://pub.dartlang.org/google_maps_webservice
+  version: 0.0.20
+  license: BSD-3-Clause
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/flutter_maps_firestore/pubspec.lock
+  detection_source: flutter_maps_firestore/pubspec.yaml
+  last_updated_by: Andrew Brogdon
+  last_updated_on: 2021-03-03 19:44:35.000000000 Z
+- name: google_sign_in
+  description: Flutter plugin for Google Sign-In
+  package_url: https://pub.dartlang.org/google_sign_in
+  version: 5.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/web_dashboard/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-11 10:17:35.000000000 Z
+- name: grinder
+  description: Grinder is a task runner for Dart
+  package_url: https://pub.dartlang.org/grinder
+  version: 0.9.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2021-06-05 02:24:28.000000000 Z
+- name: hive
+  description: Lightweight and buzzing-fast key-value database made for Flutter and
+    Dart
+  package_url: https://pub.dartlang.org/hive
+  version: 2.1.0
+  license: Apache-2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: Abdullah Deshmukh
+  last_updated_on: 2021-08-04 22:18:22.000000000 Z
+- name: hive_flutter
+  description: Extension for Hive
+  package_url: https://pub.dartlang.org/hive_flutter
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: hive_generator
+  description: Extension for Hive
+  package_url: https://pub.dartlang.org/hive_generator
+  version: 1.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-01-06 05:16:23.000000000 Z
+- name: html
+  description: APIs for parsing and manipulating HTML content outside the browser
+  package_url: https://pub.dartlang.org/html
+  version: 0.15.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/place_tracker/pubspec.lock
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: http
+  description: A composable
+  package_url: https://pub.dartlang.org/http
+  version: 0.13.4
+  license: BSD-3-Clause
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: Miguel Beltran
+  last_updated_on: 2022-03-01 22:57:10.000000000 Z
+- name: image
+  description: Dart Image Library provides server and web apps the ability to load
+  package_url: https://pub.dartlang.org/image
+  version: 3.1.3
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: in_app_purchase
+  description: A Flutter plugin for in-app purchases
+  package_url: https://pub.dartlang.org/in_app_purchase
+  version: 3.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/game_template/pubspec.lock
+  detection_source: game_template/pubspec.yaml
+  last_updated_by: Filip Hracek
+  last_updated_on: 2022-05-10 13:08:43.000000000 Z
+- name: intl
+  description: Contains code to deal with internationalized/localized messages
+  package_url: https://pub.dartlang.org/intl
+  version: 0.17.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: json2yaml
+  description: |-
+    Dart package to render JSON data to YAML with built-in automatic beautifier and
+    support for Dart pubspec.yaml and pubspec.lock conventions
+  package_url: https://pub.dartlang.org/json2yaml
+  version: 3.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-28 08:30:05.000000000 Z
+- name: json_annotation
+  description: Classes and helper functions that support JSON code generation via
+    the `json_serializable` package
+  package_url: https://pub.dartlang.org/json_annotation
+  version: 4.5.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-28 08:30:05.000000000 Z
+- name: json_serializable
+  description: Automatically generate code for converting to and from JSON by annotating
+    Dart classes
+  package_url: https://pub.dartlang.org/json_serializable
+  version: 6.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-28 08:30:05.000000000 Z
+- name: logging
+  description: Provides APIs for debugging and error logging
+  package_url: https://pub.dartlang.org/logging
+  version: 1.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-02-03 22:33:53.000000000 Z
+- name: markdown
+  description: A portable Markdown library written in Dart that can parse Markdown
+    into HTML
+  package_url: https://pub.dartlang.org/markdown
+  version: 5.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/linting_tool/pubspec.lock
+  detection_source: web/_tool/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-04-06 01:45:20.000000000 Z
+- name: math_expressions
+  description: A library for parsing and evaluating mathematical expressions
+  package_url: https://pub.dartlang.org/math_expressions
+  version: 2.3.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/simplistic_calculator/pubspec.lock
+  detection_source: simplistic_calculator/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-02-27 17:09:31.000000000 Z
+- name: mdc_web
+  description: Dart wrapper for the material-components-web javascript library
+  package_url: https://pub.dartlang.org/mdc_web
+  version: 0.6.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/web/samples_index/pubspec.yaml
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: meta
+  description: Annotations used to express developer intentions that can't otherwise
+    be deduced by statically analyzing source code
+  package_url: https://pub.dartlang.org/meta
+  version: 1.7.0
+  license: BSD-3-Clause
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: infinite_list/pubspec.yaml
+  last_updated_by: Andrew Brogdon
+  last_updated_on: 2021-03-03 19:44:35.000000000 Z
+- name: mockito
+  description: A mock framework inspired by Mockito with APIs for Fakes
+  package_url: https://pub.dartlang.org/mockito
+  version: 5.1.0
+  license: Apache-2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/experimental/federated_plugin/federated_plugin_web/pubspec.lock
+  detection_source: experimental/federated_plugin/federated_plugin_web/pubspec.yaml
+  last_updated_by: Ayush Bherwani
+  last_updated_on: 2021-04-06 08:59:58.000000000 Z
+- name: path
+  description: A string-based path manipulation library
+  package_url: https://pub.dartlang.org/path
+  version: 1.8.1
+  license: BSD-3-Clause
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: experimental/web_dashboard/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: path_to_regexp
+  description: Converts a path such as '/user/:id' into a regular expression
+  package_url: https://pub.dartlang.org/path_to_regexp
+  version: 0.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/navigation_and_routing/pubspec.lock
+  detection_source: navigation_and_routing/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-05-11 19:48:11.000000000 Z
+- name: plugin_platform_interface
+  description: Reusable base class for platform interfaces of Flutter federated plugins
+  package_url: https://pub.dartlang.org/plugin_platform_interface
+  version: 2.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: experimental/federated_plugin/federated_plugin_platform_interface/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-01-05 01:35:50.000000000 Z
+- name: provider
+  description: A wrapper around InheritedWidget to make them easier to use and more
+    reusable
+  package_url: https://pub.dartlang.org/provider
+  version: 6.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: add_to_app/android_view/flutter_module_using_plugin/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-03-18 22:37:04.000000000 Z
+- name: quiver
+  description: Quiver is a set of utility libraries for Dart that makes using many
+    Dart libraries easier and more convenient
+  package_url: https://pub.dartlang.org/quiver
+  version: 3.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: navigation_and_routing/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-04 09:00:34.000000000 Z
+- name: sass_builder
+  description: Transpile sass files using the "build" package
+  package_url: https://pub.dartlang.org/sass_builder
+  version: 2.1.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/web/samples_index/pubspec.yaml
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: sensors
+  description: Flutter plugin for accessing the Android and iOS accelerometer and
+    gyroscope sensors
+  package_url: https://pub.dartlang.org/sensors
+  version: 2.0.3
+  license: BSD-3-Clause
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: add_to_app/android_view/flutter_module_using_plugin/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2021-06-10 04:08:38.000000000 Z
+- name: shared_preferences
+  description: Flutter plugin for reading and writing simple key-value pairs
+  package_url: https://pub.dartlang.org/shared_preferences
+  version: 2.0.15
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/game_template/pubspec.lock
+  detection_source: game_template/pubspec.yaml
+  last_updated_by: Filip Hracek
+  last_updated_on: 2022-05-10 13:08:43.000000000 Z
+- name: test
+  description: A full featured library for writing and running Dart tests across platforms
+  package_url: https://pub.dartlang.org/test
+  version: 1.21.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/game_template/pubspec.lock
+  detection_source: game_template/pubspec.yaml
+  last_updated_by: Filip Hracek
+  last_updated_on: 2022-05-10 13:08:43.000000000 Z
+- name: transparent_image
+  description: A transparent image in Dart code
+  package_url: https://pub.dartlang.org/transparent_image
+  version: 2.0.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-05-02 10:53:30.000000000 Z
+- name: tuneup
+  description: A command-line tool to manipulate and inspect your Dart projects
+  package_url: https://pub.dartlang.org/tuneup
+  version: 0.3.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/web/samples_index/pubspec.yaml
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: url_launcher
+  description: Flutter plugin for launching a URL
+  package_url: https://pub.dartlang.org/url_launcher
+  version: 6.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/flutter_module_using_plugin/pubspec.lock
+  detection_source: add_to_app/android_view/flutter_module_using_plugin/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2021-06-10 04:08:38.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://pub.dartlang.org/uuid
+  version: 3.0.6
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/desktop_photo_search/fluent_ui/pubspec.lock
+  detection_source: desktop_photo_search/fluent_ui/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-02-03 22:33:53.000000000 Z
+- name: webdriver
+  description: Provides WebDriver bindings for Dart
+  package_url: https://pub.dartlang.org/webdriver
+  version: 3.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/fullscreen/flutter_module/pubspec.lock
+  detection_source: web/samples_index/pubspec.yaml
+  last_updated_by: John Ryan
+  last_updated_on: 2021-08-02 22:41:18.000000000 Z
+- name: yaml
+  description: A parser for YAML
+  package_url: https://pub.dartlang.org/yaml
+  version: 3.1.0
+  license: MIT
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/books/flutter_module_books/pubspec.lock
+  detection_source: experimental/linting_tool/pubspec.yaml
+  last_updated_by: Brett Morgan
+  last_updated_on: 2022-01-06 05:16:23.000000000 Z
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  version: 2.8.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/books/android_books/app/build.gradle
+  detection_source: add_to_app/books/android_books/app/build.gradle
+  last_updated_by: xster
+  last_updated_on: 2020-06-13 06:18:05.000000000 Z
+  vulnerabilities:
+  - name: Deserialization of Untrusted Data in Gson
+    cve_id: CVE-2022-25647
+    cve_url: https://github.com/advisories/GHSA-4jrv-ppp4-jm57
+    detected_date: May 21
+    severity: high
+    first_patched: 2.8.9
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.13'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/books/android_books/app/build.gradle
+  detection_source: add_to_app/books/android_books/app/build.gradle
+  last_updated_by: xster
+  last_updated_on: 2020-06-13 06:18:05.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  version: 4.7.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/books/android_books/app/build.gradle
+  detection_source: add_to_app/books/android_books/app/build.gradle
+  last_updated_by: xster
+  last_updated_on: 2020-06-13 06:18:05.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib
+  description: Kotlin Standard Library for JVM
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/android_view/android_view/app/build.gradle
+  detection_source: add_to_app/android_view/android_view/app/build.gradle
+  last_updated_by: xster
+  last_updated_on: 2021-01-27 06:25:31.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/add_to_app/fullscreen/android_fullscreen/app/build.gradle
+  detection_source: add_to_app/fullscreen/android_fullscreen/app/build.gradle
+  last_updated_by: Andrew Brogdon
+  last_updated_on: 2019-09-19 18:12:58.000000000 Z
+- name: FlutterMacOS
+  description: A UI toolkit for beautiful and fast apps
+  package_url: https://cocoapods.org/pods/FlutterMacOS
+  version: 1.0.0
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/nikhilknick/flutter-samples/blob/master/animations/macos/Podfile.lock
+  detection_source: experimental/federated_plugin/federated_plugin_macos/macos/federated_plugin_macos.podspec
+  last_updated_by: Ayush Bherwani
+  last_updated_on: 2020-11-16 06:47:09.000000000 Z
